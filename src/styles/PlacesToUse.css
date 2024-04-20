@@ -1,0 +1,33 @@
+.title-cont {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 90px;
+    font-size: 40px;
+}
+
+.box {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.box-text-cont {
+    margin-right: 55px;
+}
+
+.box-text-title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.box-text {
+    width: 550px;
+    line-height: 25px;
+    font-size: 17px;
+}
+
+.second-text {
+    margin-left: 54px;
+}
