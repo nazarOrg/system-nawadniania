@@ -16,7 +16,7 @@ export const Footer = () => {
                 <div>
                     Śledź nas
                 </div>
-                <i className="bi bi-instagram"></i>
+                <a className="bi bi-instagram" href="https://www.instagram.com/m_mozwillo/"></a>
                 <i className="bi bi-facebook"></i>
                 <i className="bi bi-youtube"></i>
                 <i className="bi bi-twitter-x"></i>
